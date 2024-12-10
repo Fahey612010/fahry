@@ -51,8 +51,8 @@
         Sejak pertama kali kita kenalan, aku merasa ada sesuatu yang spesial di antara kita. Aku ingin bilang kalau aku sangat suka denganmu. Kamu selalu membuat hariku lebih cerah dan aku ingin kita bisa lebih dekat lagi.
     </p>
     <p class="heart">❤️</p>
-    <img src="foto_kalian.jpg" " 
-    <p>Jadi, apakah kamu mau jadi bagian dari hidupku?</p>
+    
+ <p>Jadi, apakah kamu mau jadi bagian dari hidupku?</p>
     <button class="button" onclick="window.location.href='https://wa.me/[081549095239]'">Jawab Lewat WhatsApp yaaa cantikk</button>
 </body>
 </html>![1000542732](https://github.com/user-attachments/assets/58ff8904-50ad-45cc-a114-b391433ebbba)
